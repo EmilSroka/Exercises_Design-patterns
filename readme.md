@@ -1,0 +1,1 @@
+Exercises from [The Ultimate Design Patterns](https://codewithmosh.com/p/design-patterns) course and my solutions. 
