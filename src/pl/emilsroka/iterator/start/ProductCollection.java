@@ -1,4 +1,4 @@
-package com.codewithmosh.iterator;
+package pl.emilsroka.iterator.start;
 
 import java.util.ArrayList;
 import java.util.List;

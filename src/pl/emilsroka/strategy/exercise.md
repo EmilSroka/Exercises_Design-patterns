@@ -1,0 +1,2 @@
+Look at the code in the ChatClient class. This class uses an encryption algorithm to encrypt a message before sending it out.  
+What are the problems in this implementation? Refactor the code using the strategy pattern.

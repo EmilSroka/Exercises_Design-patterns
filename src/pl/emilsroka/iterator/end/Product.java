@@ -1,4 +1,4 @@
-package pl.emilsroka.iterator.start;
+package pl.emilsroka.iterator.end;
 
 public class Product {
   private int id;

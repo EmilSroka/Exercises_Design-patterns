@@ -1,4 +1,4 @@
-package com.codewithmosh.iterator;
+package pl.emilsroka.iterator.start;
 
 public class Product {
   private int id;
