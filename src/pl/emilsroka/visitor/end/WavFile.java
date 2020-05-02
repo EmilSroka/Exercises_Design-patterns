@@ -19,7 +19,7 @@ public class WavFile {
 
     public void applyFilter(Filter filter) {
         for (var segment : segments){
-            filter.apply(segment);
+            segment.accept(filter);
         }
     }
 }

@@ -1,3 +1,5 @@
 package pl.emilsroka.visitor.end;
 
-interface  Segment { }
+interface Segment {
+    void accept(Filter filter);
+}
